@@ -1,0 +1,58 @@
+IA es capaz de ejecutar tareas humanas muy bien como recocer objetos, entablar conversacion, tomar decisiones entre otras.
+La inteligencia artificial se divide en varios campos de acuerdo a la tarea especialida que se desea realizar:
+	> Narrow IA
+	> Artificial General Intelligence AGI
+	> Super Intelligence
+	> Classical Artificial Intelligence
+
+
+Con el creciente uso de Internet, las redes sociales y los dispositivos inteligentes; ha llevado al crecimiento y uso de Big Data mismo que utiliza varios algoritmos de Inteligencia Artificial Clasica para optimizar tareas, y distribuirlas en cluster de equipos economicos. La IA se apoya de:
+
+	> Machine Learnign
+	Aprendizaje automatico, aplica metodos estadisticos a un conjunto de datos hacia un objetivo final, simulando el aprendizaje humano.
+
+	Apartir de terminos claves, ya sea de una base de datos estructurada o texto en lenguaje natural; por medio de caracteristicas o atributos la computadora puede entender, procesar, clasificar y precedir información. Algunos otros conceptos son:
+
+	Entropia: La cantidad de incertidumbre de una variable aleatoria.
+	Ganancia de la informacion: La cantidad de informacion obtenida como resultado de un conocimiento previo.
+	Aprendizaje supervisado: Algoritmos de aprendizaje que trabaja con datos etiquetados.
+	Aprendizjae no supervisado: Algoritmo capaz de descubrir patrones ocultos en datos
+	Funcion de perdida: Diferencia entre la realidad y el algoritmo. El objetivo es reducir o minizar dicha funcion.
+
+
+	Las tecnicas de machine learnig se pueden clasificar como : Regresion, agrupacion y clasificacion.
+
+	>Reinforcement Learning: Aprendizaje de refuerzo, modelo en el cual se premia o penaliza a la instancia cuando toma una desicion correcta/incorrecta. PE un juego de ajedrez.
+
+	>Linear Regression: Modela 2 o mas con valores continuos.
+
+	>Decision Trees: Apartir de los datos, genera un arbol que ayuda a la toma de desiciones futuras.
+
+	>k-means: Algoritmo no supervisado, agrupa diferentes instancias de acuerdo a su similitud.
+
+	>Support Vector Machines (SVM): Algorithmo de clasificacion que utiliza el plano hiper para separar dos clases de datos, una vez entrenado se puede utilizar como clasificador.
+
+	>Boosting and Ensemble: Metodo que combina clasificadores debiles con fuertes.
+
+	>Principal Component Analysis (PCA): Es un metodo que reduce las dimensiones. Es util para deshacerse de la informacion redundante presente en los datos al mismo tiempo que conserva las mayores caracteristicas.
+
+	>Simultaneos Location and Mapping (SLAM): Metodo que utilizan los robots para ubicarse en entornos desconocidos
+
+	>Random Forest: Bosque aleatorio. Genera multiples arboles de desicion durante el entrenamiento
+
+	>Logistic Regression: Tecnica de clasificacion qeu modela la funcion lineal con otras caracteristicas.
+
+	>Evolution Genetic Algorithms: Algoritmoos que se utilizan para la optimizacion de busqueda mediante conceptos de seleccion, cruce y mutacion.
+
+	>Neural Networks: Redes Neuronales son redes de inspiracion biologica que extraen caracterisiticas abstractas de los datos en forma de jerarquia.  De acuerdo al no. de capas o epocas de la red neural se puden utilizar:
+
+		Convolutional Neural Network (CNN)
+		Recurrent Neural Network (RNN)
+		Restricted Boltzmann Machine (RBM)
+		Deep Belief Network
+		Variational Autoencoders (VAE)
+		GANs
+		Deep Reinformcement Learning
+		Capsules
+
+
